@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nyc-boy-dinner/static/css/main.f855e6bc.css",
+    "main.js": "/nyc-boy-dinner/static/js/main.727e432e.js",
+    "static/js/453.36d0777c.chunk.js": "/nyc-boy-dinner/static/js/453.36d0777c.chunk.js",
+    "static/media/logo.svg": "/nyc-boy-dinner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nyc-boy-dinner/index.html",
+    "main.f855e6bc.css.map": "/nyc-boy-dinner/static/css/main.f855e6bc.css.map",
+    "main.727e432e.js.map": "/nyc-boy-dinner/static/js/main.727e432e.js.map",
+    "453.36d0777c.chunk.js.map": "/nyc-boy-dinner/static/js/453.36d0777c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.727e432e.js"
+  ]
+}
