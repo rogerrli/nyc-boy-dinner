@@ -1,0 +1,16 @@
+@import "@fontsource/roboto";
+@import "../scss/app/index.scss";
+@import "../scss/pages/index.scss";
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+// position
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}

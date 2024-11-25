@@ -1,0 +1,11 @@
+$default: 8px;
+$small: $default / 2;
+$xsmall: $small / 2;
+$medium: $default * 2;
+$large: $default * 3;
+$x-large: $default * 4;
+
+
+$z-base: 0;
+$z-above: 1;
+$z-header: $z-above + $z-base;
