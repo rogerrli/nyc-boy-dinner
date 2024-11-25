@@ -6,11 +6,16 @@ import { Home } from "./pages/Home";
 function App() {
   return (
     <div id="app-wrapper">
-      <BrowserRouter>
-      <Routes>
-        <Route path="/nyc-boy-dinner" element={<Home/>}/>
-      </Routes>
-      </BrowserRouter>
+      <div id="app-header">
+        header
+      </div>
+      <div id="app-body">
+        <BrowserRouter>
+        <Routes>
+          <Route path="/nyc-boy-dinner" element={<Home/>}/>
+        </Routes>
+        </BrowserRouter>
+      </div>
     </div>
   );
 }
